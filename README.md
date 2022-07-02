@@ -1,4 +1,5 @@
 # FBstab C++
+SMALL CHANGE
 This repository contains an C++ implementation of FBstab: The proximally regularized Fischer-Burmeister method for convex quadratic programming. FBstab solves quadratic programs of the form,
 
 ```
